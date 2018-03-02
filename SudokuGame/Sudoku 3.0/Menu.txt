@@ -1,0 +1,11 @@
+ Nhan phim H de hien thi luat choi va cach choi 
+ Nhan phim N de tao moi mot luoi Sudoku
+ Nhan phim O de mo mot luoi Sudoku da co san
+ Nhan P de nguoi choi
+ Nhan C de may choi
+ Nhan R de may choi trong truong hop co duong xuyen
+ Nhan phim W de duoc goi y mot gia tri mot o nao do
+ Nhan phim I de duoc goi y vi tri sai
+ Nhan phim F de hoan thien luoi Sudoku ma nguoi choi dang giai
+ Nhan phim S de luu ket qua cua luoi hien tai
+ Nhan E de thoat

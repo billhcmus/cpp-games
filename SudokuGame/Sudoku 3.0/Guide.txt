@@ -1,0 +1,6 @@
+Luat choi va cach choi: 
+Dien vao o trong nhung con so thich hop 
+
+Theo quy tac sau:
+- Cac o o moi hang, cot phai co du cac so tu 1 - 9 khong can theo thu tu.
+- Moi mien 3x3, duoc vien dam, phai tu 1 - 9
